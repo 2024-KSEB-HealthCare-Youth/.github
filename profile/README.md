@@ -1,12 +1,68 @@
-## Hi there 👋
+## ⭐ Youth : AI 기반 피부 진단 서비스
+![커버](https://github.com/2024-KSEB-HealthCare-Youth/.github/main)
 
-<!--
 
-**Here are some ideas to get you started:**
+> 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</br></br>
+
+## Features
+> 
+
+</br></br>
+
+## 개발 기간
+* 기획 : 2024.07.01 ~ 2023.07.12
+* 개발 : 2024.07.15 ~ 2024.08.16 
+
+</br></br>
+
+## System Architecture
+![시스템 아키텍처](https://github.com/2024-KSEB-HealthCare-Youth/.github/system-architecture)
+
+</br></br>
+
+## Contributors 
+
+<table>
+<thead>
+<tr>
+<th align="center">노형준</th>
+<th align="center">김경영</th>
+<th align="center">김민상</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/81161750?v=4">
+  <img src="https://avatars.githubusercontent.com/u/81161750?v=4" alt="profile" width="180" height="180" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/102040717?v=4">
+  <img src="https://avatars.githubusercontent.com/u/102040717?v=4" alt="profile" width="180" height="180" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/87409442?v=4">
+  <img src="https://avatars.githubusercontent.com/u/87409442?v=4" alt="profile" width="180" height="180" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/v2n03">v2n03</a></td>
+<td align="center"><a href="https://github.com/Gyoung-0">Gyoung-0</a></td>
+<td align="center"><a href="https://github.com/MinSang22Kim">MinSang22Kim</a></td>
+</tr>
+<tr>
+<th align="center">박진환</th>
+<th align="center">신효식</th>
+<th align="center">최화영</th>
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/87409442?v=4">
+  <img src="https://avatars.githubusercontent.com/u/87409442?v=4" alt="profile" width="180" height="180" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/87409442?v=4">
+  <img src="https://avatars.githubusercontent.com/u/87409442?v=4" alt="profile" width="180" height="180" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/87409442?v=4">
+  <img src="https://avatars.githubusercontent.com/u/87409442?v=4" alt="profile" width="180" height="180" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/znan2">znan2</a></td>
+<td align="center"><a href="https://github.com/Shinoyh">Shinoyh</a></td>
+<td align="center"><a href="https://github.com/zzuharchive">zzuharchive</a></td>
+</tr>
+</tbody>
+</table>
