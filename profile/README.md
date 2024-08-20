@@ -1,14 +1,7 @@
 ## ⭐ Youth : AI 기반 피부 진단 서비스
 
 ![메인페이지](/profile/images/main.png)
-> 소개
-
-</br></br>
-
-
-## Features
-
->
+> AI 기반으로 피부 타입을 진단하고 개인 맞춤형 영양제와 화장품을 추천해주는 서비스 앱 입니다.
 
 </br></br>
 
@@ -17,7 +10,6 @@
 
 * 기획 : 2024.07.01 ~ 2023.07.12
 * 개발 : 2024.07.15 ~ 2024.08.16
-* 
 </br></br>
 
 
@@ -54,7 +46,7 @@
 <tr>
 <th align="center">박진환</th>
 <th align="center">신효식</th>
-<th align="center">최화영</th>
+<th align="center">최주하</th>
 </tr>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/znan2">
@@ -62,16 +54,8 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Shinoyh">
   <img src="/profile/images/avatars/신효식.png" alt="신효식" width="180" height="180" style="max-width: 100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/zzuharchive">
-  <img src="/profile/images/avatars/최화영.png" alt="최화영" width="180" height="180" style="max-width: 100%;"></a></td>
+  <img src="/profile/images/avatars/최주하.png" alt="최주하" width="180" height="180" style="max-width: 100%;"></a></td>
 </tr>
-<tr>
-<td align="center"><a href="https://github.com/znan2">znan2</a></td>
-<td align="center"><a href="https://github.com/Shinoyh">Shinoyh</a></td>
-<td align="center"><a href="https://github.com/zzuharchive">zzuharchive</a></td>
-</tr>
-</tbody>
-</table>
-
 <tr>
 <td align="center"><a href="https://github.com/znan2">znan2</a></td>
 <td align="center"><a href="https://github.com/Shinoyh">Shinoyh</a></td>
