@@ -5,26 +5,26 @@
 
 </br></br>
 
-## 개발 기간
+## 🗓️ 개발 기간
 
 * 기획 : 2024.07.01 ~ 2023.07.12
 * 개발 : 2024.07.15 ~ 2024.08.16
 </br></br>
 
-## System Architecture
+## 💻 System Architecture
 
 ![시스템 아키텍처](/profile/images/system-architecture.png)
 </br></br>
 
-## 🖥️ Contributors 
+## 👀 Contributors 
 
 <div align='center'>
 <table>
 <thead>
 <tr>
-<th align="center">노형준</th>
-<th align="center">김경영</th>
-<th align="center">김민상</th>
+<th align="center">PL, FE</th>
+<th align="center">BE</th>
+<th align="center">BE Leader</th>
 </tr>
 </thead>
 <tbody>
@@ -46,14 +46,15 @@
 </td>
 </tr>
 <tr>
-<td align="center">PL, FE</th>
-<td align="center">BE</th>
-<td align="center">BE Leader</th>
+<td align="center">노형준</td>
+<td align="center">김경영</td>
+<td align="center">김민상</td>
 </tr>
 <tr>
-<th align="center">박진환</th>
-<th align="center">신효식</th>
-<th align="center">최주하</th>
+<th align="center">FE</th>
+<th align="center">AI Leader</th>
+<th align="center">BE, AI</th>
+
 </tr>
 <tr>
 <td align="center" style="padding: 20px;">
@@ -73,9 +74,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">FE</th>
-<td align="center">AI Leader</th>
-<td align="center">BE, AI</th>
+<td align="center">박진환</td>
+<td align="center">신효식</td>
+<td align="center">최주하</td>
 </tr>
 </tbody>
 </table>
