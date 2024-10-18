@@ -5,7 +5,7 @@
 </br></br>
 
 ## 🏆 수상 : 우수상(3등)
-![수상](/profile/images/prize.png)
+![수상](/profile/images/award.jpg)
 </br></br>
 
 ## 🗓️ 개발 기간
